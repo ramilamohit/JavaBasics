@@ -1,3 +1,7 @@
 I'm working on interview questions ---------
+<<<<<<< HEAD
 I'm doing modification
 trying to merge and test in 3rd commit
+=======
+let me check with pull and merge and conflict
+>>>>>>> e47049f440b53124c8456d77f24b786384c03f6b
