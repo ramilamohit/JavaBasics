@@ -9,6 +9,7 @@ public class FirstProgram {
     System.out.print(" And Prem");
     System.out.println("\nI'm seeking job right now\n");
     System.out.println("Learning" + "Java");
+    System.out.println("Need high focus to recollect everthing and memorize for interview");
     
     //division dv = new division();
     //dv.divisiontest();
