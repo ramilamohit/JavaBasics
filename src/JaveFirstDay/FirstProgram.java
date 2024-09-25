@@ -7,6 +7,7 @@ public class FirstProgram {
 		//I'm working on feature merge
     System.out.print("Hi Rukshara, Mohit");
     System.out.print(" And Prem");
+		System.out.println("Trying to learn merge concept");
     System.out.println("\nI'm seeking job right now\n");
     System.out.println("Need to be more strict in planning");   
     System.out.println("Need high focus to recollect everything and memorize for interview");
