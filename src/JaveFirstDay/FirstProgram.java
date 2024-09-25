@@ -5,7 +5,8 @@ public class FirstProgram {
 
 	public static void main(String[] args) {
 		//I'm working on feature merge
-    System.out.print("Hi Rukshara, Mohit");
+//second merge
+		System.out.print("Hi Rukshara, Mohit");
     System.out.print(" And Prem");
     System.out.println("\nI'm seeking job right now\n");
     System.out.println("Learning" + "Java");
