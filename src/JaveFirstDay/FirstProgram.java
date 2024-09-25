@@ -7,6 +7,7 @@ public class FirstProgram {
 		// TODO Auto-generated method stub
     System.out.print("Hi Rukshara, Mohit");
     System.out.print(" And Prem");
+		System.out.println("Trying to learn merge concept");
     System.out.println("\nI'm seeking job right now\n");
     System.out.println("Learning" + "Java");
     
