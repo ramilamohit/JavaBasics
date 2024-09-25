@@ -8,8 +8,8 @@ public class FirstProgram {
     System.out.print("Hi Rukshara, Mohit");
     System.out.print(" And Prem");
     System.out.println("\nI'm seeking job right now\n");
-    System.out.println("Learning" + "Java");
-    System.out.println("Need high focus to recollect everthing and memorize for interview");
+    System.out.println("Need to be more strict in planning");   
+    System.out.println("Need high focus to recollect everything and memorize for interview");
     
     //division dv = new division();
     //dv.divisiontest();
